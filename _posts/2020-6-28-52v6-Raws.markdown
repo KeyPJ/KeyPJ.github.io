@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "52v6-Raws"
-subtitle:   " \"52v6-Raws\""
+subtitle:   "52v6-Raws"
 date:       2020-06-28 23:30:00
 author:     "KeyPJ"
 header-img: "img/in-post/20200628/1.jpg"

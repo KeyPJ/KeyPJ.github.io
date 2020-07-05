@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "威六已死，威六新生"
-subtitle:   " \"Hello World, Hello Blog\""
+subtitle:   "Hello World, Hello Blog"
 date:       2020-06-10 12:00:00
 author:     "KeyPJ"
 header-img: "img/post-bg-2015.jpg"

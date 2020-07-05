@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "优衣规划"
-subtitle:   " \"Yui Program\""
+subtitle:   "Yui Program"
 date:       2020-06-15 23:30:00
 author:     "KeyPJ"
 header-img: "img/in-post/20200615/108831.webp.png"

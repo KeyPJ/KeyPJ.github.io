@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "52v6-Raws"
+subtitle:   " \"52v6-Raws\""
+date:       2020-06-28 23:30:00
+author:     "KeyPJ"
+header-img: "img/in-post/20200628/1.jpg"
+tags:
+    - 博客
+    - 52v6-Raws
+    - 迁移
+
+    
+---
+
+52v6-Raws因52v6.moe域名即将到期,不再续费,将迁移到本域名52v6.com下.  
+欢迎访问[Dockyard of 52v6-Raws](https://blog.52v6.com)!
+
+
+—— KeyPJ 记于 2020.6.28
